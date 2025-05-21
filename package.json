@@ -1,0 +1,23 @@
+{
+  "name": "pojeto-pokedex",
+  "version": "1.0.0",
+  "description": "Projet de Pokedéx utilizando HTML, Css e Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurTiso/Projeto-Pokedex.git"
+  },
+  "keywords": [
+    "Pokedex",
+    "pokemon"
+  ],
+  "author": "Arthur & Vini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurTiso/Projeto-Pokedex/issues"
+  },
+  "homepage": "https://github.com/ArthurTiso/Projeto-Pokedex#readme"
+}
