@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ArthurTiso/Projeto-Pokedex/issues"
   },
-  "homepage": "https://github.com/ArthurTiso/Projeto-Pokedex#readme"
+  "homepage": "https://github.com/ArthurTiso/Projeto-Pokedex#readme",
+  "devDependencies": {
+    "prisma": "^6.8.2"
+  }
 }
